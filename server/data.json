@@ -1,0 +1,439 @@
+[
+ 
+  {
+    "title": "Full-Stack Web Development",
+    "description": "Master frontend and backend web development with hands-on projects.",
+    "instructor": {
+      "name": "David Lee",
+      "bio": "Full-stack web developer with 10 years of experience.",
+      "credentials": "Certified Web Developer",
+      "imageUrl": "https://example.com/david.jpg"
+    },
+    "institution": "Code Academy",
+    "price": 900,
+    "rating": 4.9,
+    "reviews": 89,
+    "imageUrl": "https://www.optimalvirtualemployee.com/wp-content/uploads/2022/12/Full-stack-developer-1024x482.png",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "language": "English",
+    "duration": "12 weeks",
+    "contentFormat": ["video tutorials", "projects", "code reviews"],
+    "prerequisites": "Basic HTML and CSS knowledge",
+    "enrollments": 400,
+    "startDate": "2024-12-01",
+    "endDate": "2025-02-15",
+    "status": "open",
+    "certification": true,
+    "syllabus": [
+      "HTML & CSS",
+      "JavaScript",
+      "Frontend Frameworks",
+      "Backend Development",
+      "Databases"
+    ],
+    "modules": [
+      {
+        "moduleTitle": "HTML & CSS",
+        "topics": [
+          { "title": "Python Basics", "description": "Introductory topics for beginners" },
+          { "title": "Variables and Data Types", "description": "Understanding different data types in Python" }
+        ],
+        "resources": [{ "type": "PDF", "url": "/materials/html_css.pdf" }],
+        "videos": [
+          {
+            "videoId": "vid201",
+            "title": "HTML Basics",
+            "url": "https://res.cloudinary.com/dkgfdtk2v/video/upload/v1717632667/Video_1_g4cd60.mp4",
+            "duration": 10,
+            "description": "Learn the basics of HTML structure."
+          }
+        ]
+      }
+    ],
+    "learningObjectives": [
+      "Create responsive websites",
+      "Develop full-stack applications"
+    ],
+    "assessmentMethods": ["quizzes", "capstone project"],
+    "discussionForum": "/forums/web-dev",
+    "courseMaterials": ["/materials/web_dev_guide.pdf"],
+    "FAQs": [
+      {
+        "question": "Do I need prior experience?",
+        "answer": "Basic HTML and CSS knowledge is recommended."
+      }
+    ],
+    "testimonials": [
+      {
+        "student": "Emily Clark",
+        "review": "Very detailed and hands-on course.",
+        "rating": 4.8
+      }
+    ],
+    "previewVideoUrl": "https://res.cloudinary.com/dkgfdtk2v/video/upload/v1717632667/Video_1_g4cd60.mp4"
+  },
+  {
+    "title": "Advanced Python Programming",
+    "description": "Deep dive into Python for data science, web development, and automation.",
+    "instructor": {
+      "name": "Jane Smith",
+      "bio": "Python expert with experience in data science and web applications.",
+      "credentials": "PhD in Computer Science, Python Certified",
+      "imageUrl": "https://i0.wp.com/www.xamnation.com/wp-content/uploads/2019/09/849-03901398en_Masterfile.jpg?w=450&ssl=1"
+    },
+    "institution": "Tech Institute",
+    "price": 600,
+    "rating": 4.8,
+    "reviews": 150,
+    "imageUrl": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png",
+    "category": "Python Programming",
+    "level": "Advanced",
+    "language": "English",
+    "duration": "8 weeks",
+    "contentFormat": ["video lectures", "assignments", "projects"],
+    "prerequisites": "Basic Python knowledge",
+    "enrollments": 300,
+    "startDate": "2024-11-15",
+    "endDate": "2025-01-10",
+    "status": "open",
+    "certification": true,
+    "syllabus": [
+      "Advanced Data Structures",
+      "Object-Oriented Programming",
+      "Web Development with Django",
+      "Data Science with Pandas and NumPy"
+    ],
+    "modules": [
+      {
+        "moduleTitle": "Data Structures in Python",
+        "topics": [
+          { "title": "Lists and Dictionaries", "description": "Understanding Python's core data structures." },
+          { "title": "Advanced Functions", "description": "Lambda, map, filter, and more." }
+        ],
+        "resources": [{ "type": "PDF", "url": "/materials/python_data_structures.pdf" }],
+        "videos": [
+          {
+            "videoId": "vid301",
+            "title": "Advanced Lists and Dictionaries",
+            "url": "https://res.cloudinary.com/dkgfdtk2v/video/upload/v1717632667/Video_1_g4cd60.mp4",
+            "duration": 20,
+            "description": "Detailed explanation of lists and dictionaries in Python."
+          }
+        ]
+      }
+    ],
+    "learningObjectives": [
+      "Develop complex Python applications",
+      "Apply Python to data science projects"
+    ],
+    "assessmentMethods": ["quizzes", "projects"],
+    "discussionForum": "/forums/python-advanced",
+    "courseMaterials": ["/materials/advanced_python_guide.pdf"],
+    "FAQs": [
+      {
+        "question": "Is this course suitable for beginners?",
+        "answer": "No, prior Python knowledge is required."
+      }
+    ],
+    "testimonials": [
+      {
+        "student": "Michael Lee",
+        "review": "Great course for advancing Python skills.",
+        "rating": 4.9
+      }
+    ],
+    "previewVideoUrl": "https://res.cloudinary.com/dkgfdtk2v/video/upload/v1717632667/Video_1_g4cd60.mp4"
+  },
+  {
+    "title": "Database Design and Management",
+    "description": "Learn the fundamentals of database systems and SQL.",
+    "instructor": {
+      "name": "Sarah Parker",
+      "bio": "Database administrator with over 15 years of experience.",
+      "credentials": "Certified Database Administrator",
+      "imageUrl": "https://i0.wp.com/www.xamnation.com/wp-content/uploads/2019/09/849-03901398en_Masterfile.jpg?w=450&ssl=1"
+    },
+    "institution": "Data Academy",
+    "price": 700,
+    "rating": 4.6,
+    "reviews": 110,
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*pQbUoTKuWaQl34zzobDTSg.png",
+    "category": "Database",
+    "level": "Intermediate",
+    "language": "English",
+    "duration": "10 weeks",
+    "contentFormat": ["lectures", "labs", "case studies"],
+    "prerequisites": "Basic understanding of computer systems",
+    "enrollments": 200,
+    "startDate": "2024-12-05",
+    "endDate": "2025-02-20",
+    "status": "open",
+    "certification": true,
+    "syllabus": [
+      "Introduction to Databases",
+      "SQL Basics",
+      "Database Normalization",
+      "Database Security"
+    ],
+    "modules": [
+      {
+        "moduleTitle": "SQL Fundamentals",
+        "topics": [
+          { "title": "Basic Queries", "description": "Introduction to SQL and basic commands." },
+          { "title": "Advanced Queries", "description": "Joins, subqueries, and advanced techniques." }
+        ],
+        "resources": [{ "type": "PDF", "url": "/materials/sql_basics.pdf" }],
+        "videos": [
+          {
+            "videoId": "vid401",
+            "title": "Introduction to SQL",
+            "url": "https://example.com/video4.mp4",
+            "duration": 25,
+            "description": "SQL basics for managing databases."
+          }
+        ]
+      }
+    ],
+    "learningObjectives": [
+      "Design and manage databases effectively",
+      "Write complex SQL queries"
+    ],
+    "assessmentMethods": ["tests", "practical labs"],
+    "discussionForum": "/forums/database-course",
+    "courseMaterials": ["/materials/database_guide.pdf"],
+    "FAQs": [
+      {
+        "question": "Do I need to know SQL?",
+        "answer": "This course will teach SQL from scratch."
+      }
+    ],
+    "testimonials": [
+      {
+        "student": "Anna Brown",
+        "review": "Comprehensive and practical course.",
+        "rating": 4.7
+      }
+    ],
+    "previewVideoUrl": "https://example.com/preview-db.mp4"
+  },
+  {
+    "title": "Introduction to Cyber Security",
+    "description": "Learn to protect data and secure networks from cyber threats.",
+    "instructor": {
+      "name": "John Rogers",
+      "bio": "Cyber security specialist with a background in ethical hacking.",
+      "credentials": "Certified Information Security Manager (CISM)",
+      "imageUrl": "https://i0.wp.com/www.xamnation.com/wp-content/uploads/2019/09/849-03901398en_Masterfile.jpg?w=450&ssl=1"
+    },
+    "institution": "CyberTech Academy",
+    "price": 800,
+    "rating": 4.5,
+    "reviews": 95,
+    "imageUrl": "https://media.licdn.com/dms/image/v2/D4D12AQGEWtp-W6RVkA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656944007892?e=1740614400&v=beta&t=DQrPzrnrteDXVCZc2nkwSjR6qsN_SHf8JAizz5PEDwg",
+    "category": "Cyber Security",
+    "level": "Beginner",
+    "language": "English",
+    "duration": "6 weeks",
+    "contentFormat": ["lectures", "labs", "simulations"],
+    "prerequisites": "None",
+    "enrollments": 350,
+    "startDate": "2024-11-20",
+    "endDate": "2025-01-05",
+    "status": "open",
+    "certification": true,
+    "syllabus": [
+      "Basics of Cyber Security",
+      "Network Security",
+      "Cyber Threats and Defense",
+      "Introduction to Ethical Hacking"
+    ],
+    "modules": [
+      {
+        "moduleTitle": "Network Security",
+        "topics": [
+          { "title": "Securing Networks", "description": "Basics of network security and firewalls." },
+          { "title": "Encryption Techniques", "description": "Understanding data encryption methods." }
+        ],
+        "resources": [{ "type": "PDF", "url": "/materials/network_security.pdf" }],
+        "videos": [
+          {
+            "videoId": "vid501",
+            "title": "Introduction to Network Security",
+            "url": "https://example.com/video5.mp4",
+            "duration": 30,
+            "description": "Understanding network security basics."
+          }
+        ]
+      }
+    ],
+    "learningObjectives": [
+      "Protect data from cyber threats",
+      "Understand network security principles"
+    ],
+    "assessmentMethods": ["quizzes", "labs"],
+    "discussionForum": "/forums/cyber-security",
+    "courseMaterials": ["/materials/cyber_security_guide.pdf"],
+    "FAQs": [
+      {
+        "question": "Do I need technical knowledge?",
+        "answer": "This course starts from the basics; no prior knowledge required."
+      }
+     
+    ],
+    "testimonials": [
+      {
+        "student": "Kevin Lin",
+        "review": "Valuable course for understanding cyber security.",
+        "rating": 4.6
+      }
+    ],
+    "previewVideoUrl": "https://example.com/preview-cyber-security.mp4"
+  },
+  {
+    "title": "MEAN Stack Development",
+    "description": "Become proficient in building full-stack web applications using MongoDB, Express.js, Angular, and Node.js.",
+    "instructor": {
+      "name": "Arjun Patel",
+      "bio": "Full-stack developer with expertise in MEAN stack and 8 years of industry experience.",
+      "credentials": "MEAN Stack Certified Developer",
+      "imageUrl": "https://i0.wp.com/www.xamnation.com/wp-content/uploads/2019/09/849-03901398en_Masterfile.jpg?w=450&ssl=1"
+    },
+    "institution": "Tech Learning Hub",
+    "price": 950,
+    "rating": 4.7,
+    "reviews": 120,
+    "imageUrl": "https://itechnasik.com/wp-content/uploads/2023/11/Mean-stack-Development.png",
+    "category": "MEAN Stack Development",
+    "level": "Intermediate",
+    "language": "English",
+    "duration": "10 weeks",
+    "contentFormat": ["video tutorials", "hands-on labs", "projects"],
+    "prerequisites": "Basic knowledge of JavaScript and HTML",
+    "enrollments": 250,
+    "startDate": "2024-12-10",
+    "endDate": "2025-02-18",
+    "status": "open",
+    "certification": true,
+    "syllabus": [
+      "Introduction to MEAN Stack",
+      "MongoDB Basics",
+      "Express.js for APIs",
+      "Angular Fundamentals",
+      "Node.js for Backend"
+    ],
+    "modules": [
+      {
+        "moduleTitle": "MongoDB and Express",
+        "topics": [
+          { "title": "MongoDB Basics", "description": "Understanding databases with MongoDB." },
+          { "title": "Building APIs with Express", "description": "Creating RESTful APIs with Express.js." }
+        ],
+        "resources": [{ "type": "PDF", "url": "/materials/mean_mongodb_express.pdf" }],
+        "videos": [
+          {
+            "videoId": "vid601",
+            "title": "MongoDB Introduction",
+            "url": "https://example.com/video6.mp4",
+            "duration": 20,
+            "description": "Basics of MongoDB for web applications."
+          }
+        ]
+      }
+    ],
+    "learningObjectives": [
+      "Build full-stack applications using MEAN stack",
+      "Understand and implement RESTful APIs"
+    ],
+    "assessmentMethods": ["quizzes", "final project"],
+    "discussionForum": "/forums/mean-stack",
+    "courseMaterials": ["/materials/mean_stack_guide.pdf"],
+    "FAQs": [
+      {
+        "question": "Is prior experience in Angular necessary?",
+        "answer": "No, we will cover Angular from the basics."
+      }
+    ],
+    "testimonials": [
+      {
+        "student": "Samantha Green",
+        "review": "Great hands-on experience with the MEAN stack.",
+        "rating": 4.8
+      }
+    ],
+    "previewVideoUrl": "https://example.com/preview-mean.mp4"
+  },
+  {
+  "title": "MERN Stack Development",
+  "description": "Master the MERN stack (MongoDB, Express, React, Node) to build dynamic full-stack applications.",
+  "instructor": {
+    "name": "Liam Wong",
+    "bio": "Experienced full-stack developer specializing in the MERN stack.",
+    "credentials": "MERN Stack Certified Developer",
+    "imageUrl": "https://i0.wp.com/www.xamnation.com/wp-content/uploads/2019/09/849-03901398en_Masterfile.jpg?w=450&ssl=1"
+  },
+  "institution": "Code Academy",
+  "price": 1000,
+  "rating": 4.8,
+  "reviews": 135,
+  "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*kxPYwfJmkXZ3iCWy.png",
+  "category": "MERN Stack Development",
+  "level": "Advanced",
+  "language": "English",
+  "duration": "12 weeks",
+  "contentFormat": ["video lectures", "projects", "live coding sessions"],
+  "prerequisites": "Knowledge of JavaScript and basic web development",
+  "enrollments": 400,
+  "startDate": "2024-11-25",
+  "endDate": "2025-02-15",
+  "status": "open",
+  "certification": true,
+  "syllabus": [
+    "Introduction to MERN Stack",
+    "React for Frontend",
+    "Building APIs with Express and Node",
+    "MongoDB for Data Management"
+  ],
+  "modules": [
+    {
+      "moduleTitle": "React Fundamentals",
+      "topics": [
+        { "title": "React Basics", "description": "Getting started with React components." },
+        { "title": "React State and Props", "description": "Understanding state management in React." }
+      ],
+      "resources": [{ "type": "PDF", "url": "/materials/mern_react_basics.pdf" }],
+      "videos": [
+        {
+          "videoId": "vid701",
+          "title": "React Basics",
+          "url": "https://example.com/video7.mp4",
+          "duration": 15,
+          "description": "Introduction to React components and props."
+        }
+      ]
+    }
+  ],
+  "learningObjectives": [
+    "Develop complex web applications with MERN stack",
+    "Integrate frontend and backend seamlessly"
+  ],
+  "assessmentMethods": ["quizzes", "capstone project"],
+  "discussionForum": "/forums/mern-stack",
+  "courseMaterials": ["/materials/mern_stack_guide.pdf"],
+  "FAQs": [
+    {
+      "question": "Is JavaScript experience required?",
+      "answer": "Yes, familiarity with JavaScript is recommended."
+    }
+  ],
+  "testimonials": [
+    {
+      "student": "Rajesh Sharma",
+      "review": "Very well-structured course with practical insights.",
+      "rating": 4.9
+    }
+  ],
+  "previewVideoUrl": "https://example.com/preview-mern.mp4"
+  }
+  
+]
