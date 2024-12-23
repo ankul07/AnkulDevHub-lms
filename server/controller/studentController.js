@@ -110,7 +110,7 @@ const registerStudent = catchAsync(async (req, res, next) => {
   });
 
   try {
-    const verificationURL = `https://ankul-dev-hub-lms-mw3l-h7e6alp95-ankul07s-projects.vercel.app/activation/${emailVerificationToken}`;
+    const verificationURL = `https://ankul-dev-hub-lms-mw3l.vercel.app/activation/${emailVerificationToken}`;
 
     await sendMail({
       email: studentEmail,
