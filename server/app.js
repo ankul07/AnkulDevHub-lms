@@ -8,10 +8,11 @@ const { uploadCourseDataToMongoDB } = require("./controller/courseController");
 app.use(
   cors({
     origin: [
+      "https://ankul-dev-hub-lms.vercel.app",
       "https://ankul-dev-hub-lms-mw3l.vercel.app",
-      "ankul-dev-hub-lms-mw3l-kkzrkh54l-ankul07s-projects.vercel.app",
+      "https://ankul-dev-hub-lms-mw3l-kkzrkh54l-ankul07s-projects.vercel.app",
     ],
-    credentials: true,
+    credentials: true, // For allowing cookies, authorization headers
     methods: ["POST", "GET", "DELETE", "PUT"],
   })
 );
