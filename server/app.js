@@ -7,7 +7,8 @@ const { uploadCourseDataToMongoDB } = require("./controller/courseController");
 
 app.use(
   cors({
-    origin: "https://ankul-dev-hub-lms-mw3l.vercel.app",
+    origin:
+      "https://ankul-dev-hub-lms-mw3l-h7e6alp95-ankul07s-projects.vercel.app",
     credentials: true,
     methods: ["POST", "GET", "DELETE", "PUT"],
   })
