@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { topLinks, bottomLinks } from "./SidebarLinks"; // Import link data
-import SidebarItem from "./SideBarItem";
+import SidebarItem from "./SidebarItem";
 import { FaBars, FaTimes } from "react-icons/fa"; // Import the close icon
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
